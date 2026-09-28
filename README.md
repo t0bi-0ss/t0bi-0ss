@@ -46,7 +46,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Tools & Enviornments</h4>
+<h4 data-importer="text" align="left">Tools & Environments</h4>
 
 ###
 
@@ -71,7 +71,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/tobias-sordo-ostolaza-54aa3b100" target="_blank">
+  <a href="https://www.linkedin.com/in/tobias-sordo-ostolaza-54aa3b100" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:sordo.ostolaza@gmail.com" target="_blank">
